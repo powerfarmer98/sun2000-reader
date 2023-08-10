@@ -8,6 +8,7 @@ Requires a USB to RS485 converter.
 
 ## Usage
 Run the Sun200.py script in python.
+might need some changes in the code to adapt to your setup (USB device, MQTT settings).
 
 ## Project status
 As i no longer use this program since upgrading to a modbus tcp adapter, i no longer support it in any way or shape, so feel free to use it how you want.
